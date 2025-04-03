@@ -1,4 +1,4 @@
-# WNTR basic tutorial
+# WNTR, MAGnets, VisWaterNet, swmm_api basic tutorials
 
 This Github repository hosts tutorials for **CE397 Water Systems Modeling and Simulation**
 
